@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\333_Array\bin\Debug\333_Array.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\333_Array\bin\Debug\333_Array.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\333_Array\bin\Debug\333_Array.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\333_Array\obj\Debug\351_UsingList.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\333_Array\obj\Debug\351_UsingList.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\333_Array\obj\Debug\333_Array.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\333_Array\obj\Debug\333_Array.pdb

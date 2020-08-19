@@ -1,0 +1,6 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\DeepCopy\bin\Debug\DeepCopy.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\DeepCopy\bin\Debug\DeepCopy.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\DeepCopy\bin\Debug\DeepCopy.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\DeepCopy\obj\Debug\DeepCopy.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\DeepCopy\obj\Debug\DeepCopy.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\DeepCopy\obj\Debug\DeepCopy.pdb

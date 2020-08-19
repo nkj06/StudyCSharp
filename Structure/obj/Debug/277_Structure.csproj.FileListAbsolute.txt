@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\Structure\bin\Debug\Structure.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\Structure\bin\Debug\Structure.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\Structure\bin\Debug\Structure.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\Structure\obj\Debug\277_Structure.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\Structure\obj\Debug\277_Structure.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\Structure\obj\Debug\Structure.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\Structure\obj\Debug\Structure.pdb

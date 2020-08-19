@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\UsingOut\bin\Debug\UsingOut.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\UsingOut\bin\Debug\UsingOut.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\UsingOut\bin\Debug\UsingOut.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\UsingOut\obj\Debug\UsingOut.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\UsingOut\obj\Debug\UsingOut.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\UsingOut\obj\Debug\UsingOut.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\UsingOut\obj\Debug\UsingOut.pdb

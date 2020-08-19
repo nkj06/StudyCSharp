@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\310_Property\bin\Debug\310_Property.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\310_Property\bin\Debug\310_Property.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\310_Property\bin\Debug\310_Property.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\310_Property\obj\Debug\310_Property.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\310_Property\obj\Debug\310_Property.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\310_Property\obj\Debug\310_Property.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\310_Property\obj\Debug\310_Property.pdb

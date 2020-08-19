@@ -1,0 +1,6 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\Ex6_2\bin\Debug\Ex6_2.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\Ex6_2\bin\Debug\Ex6_2.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\Ex6_2\bin\Debug\Ex6_2.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\Ex6_2\obj\Debug\Ex6_2.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\Ex6_2\obj\Debug\Ex6_2.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\Ex6_2\obj\Debug\Ex6_2.pdb

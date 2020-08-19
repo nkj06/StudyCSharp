@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\615_AbortingThread\bin\Debug\615_AbortingThread.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\615_AbortingThread\bin\Debug\615_AbortingThread.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\615_AbortingThread\bin\Debug\615_AbortingThread.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\615_AbortingThread\obj\Debug\615_AbortingThread.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\615_AbortingThread\obj\Debug\615_AbortingThread.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\615_AbortingThread\obj\Debug\615_AbortingThread.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\615_AbortingThread\obj\Debug\615_AbortingThread.pdb

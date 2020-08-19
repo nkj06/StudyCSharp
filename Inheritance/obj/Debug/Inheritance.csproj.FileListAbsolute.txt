@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\Inheritance\bin\Debug\Inheritance.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\Inheritance\bin\Debug\Inheritance.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\Inheritance\bin\Debug\Inheritance.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\Inheritance\obj\Debug\Inheritance.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\Inheritance\obj\Debug\Inheritance.pdb

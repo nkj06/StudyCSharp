@@ -1,0 +1,6 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\491_FromFrom\bin\Debug\491_FromFrom.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\491_FromFrom\bin\Debug\491_FromFrom.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\491_FromFrom\bin\Debug\491_FromFrom.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\491_FromFrom\obj\Debug\491_FromFrom.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\491_FromFrom\obj\Debug\491_FromFrom.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\491_FromFrom\obj\Debug\491_FromFrom.pdb

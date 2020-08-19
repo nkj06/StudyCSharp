@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\321_PropertiesInInterface\bin\Debug\321_PropertiesInInterface.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\321_PropertiesInInterface\bin\Debug\321_PropertiesInInterface.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\321_PropertiesInInterface\bin\Debug\321_PropertiesInInterface.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\321_PropertiesInInterface\obj\Debug\321_PropertiesInInterface.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\321_PropertiesInInterface\obj\Debug\321_PropertiesInInterface.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\321_PropertiesInInterface\obj\Debug\321_PropertiesInInterface.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\321_PropertiesInInterface\obj\Debug\321_PropertiesInInterface.pdb

@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\459_SimpleLambda\bin\Debug\459_SimpleLambda.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\459_SimpleLambda\bin\Debug\459_SimpleLambda.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\459_SimpleLambda\bin\Debug\459_SimpleLambda.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\459_SimpleLambda\obj\Debug\459_SimpleLambda.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\459_SimpleLambda\obj\Debug\459_SimpleLambda.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\459_SimpleLambda\obj\Debug\459_SimpleLambda.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\459_SimpleLambda\obj\Debug\459_SimpleLambda.pdb

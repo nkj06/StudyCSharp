@@ -1,0 +1,14 @@
+C:\Users\PKNU\source\repos\MyStockSystem\MyStockSystem\bin\Debug\MyStockSystem.exe.config
+C:\Users\PKNU\source\repos\MyStockSystem\MyStockSystem\bin\Debug\MyStockSystem.exe
+C:\Users\PKNU\source\repos\MyStockSystem\MyStockSystem\bin\Debug\MyStockSystem.pdb
+C:\Users\PKNU\source\repos\MyStockSystem\MyStockSystem\obj\Debug\MyStockSystem.csprojAssemblyReference.cache
+C:\Users\PKNU\source\repos\MyStockSystem\MyStockSystem\obj\Debug\MyStockSystem.Properties.Resources.resources
+C:\Users\PKNU\source\repos\MyStockSystem\MyStockSystem\obj\Debug\MyStockSystem.csproj.GenerateResource.cache
+C:\Users\PKNU\source\repos\MyStockSystem\MyStockSystem\obj\Debug\MyStockSystem.csproj.CoreCompileInputs.cache
+C:\Users\PKNU\source\repos\MyStockSystem\MyStockSystem\obj\Debug\MyStockSystem.exe
+C:\Users\PKNU\source\repos\MyStockSystem\MyStockSystem\obj\Debug\MyStockSystem.pdb
+C:\Users\PKNU\source\repos\MyStockSystem\MyStockSystem\bin\Debug\MetroFramework.dll
+C:\Users\PKNU\source\repos\MyStockSystem\MyStockSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\PKNU\source\repos\MyStockSystem\MyStockSystem\obj\Debug\MyStockSystem.csproj.CopyComplete
+C:\Users\PKNU\source\repos\MyStockSystem\MyStockSystem\obj\Debug\MyStockSystem.MainForm.resources
+C:\Users\PKNU\source\repos\MyStockSystem\MyStockSystem\obj\Debug\MyStockSystem.SubItems.SearchItemForm.resources

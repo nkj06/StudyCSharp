@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\localFunction\bin\Debug\localFunction.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\localFunction\bin\Debug\localFunction.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\localFunction\bin\Debug\localFunction.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\localFunction\obj\Debug\localFunction.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\localFunction\obj\Debug\localFunction.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\localFunction\obj\Debug\localFunction.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\localFunction\obj\Debug\localFunction.pdb

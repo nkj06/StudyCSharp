@@ -1,0 +1,6 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\FuncTest\bin\Debug\FuncTest.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\FuncTest\bin\Debug\FuncTest.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\FuncTest\bin\Debug\FuncTest.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\FuncTest\obj\Debug\FuncTest.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\FuncTest\obj\Debug\FuncTest.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\FuncTest\obj\Debug\FuncTest.pdb

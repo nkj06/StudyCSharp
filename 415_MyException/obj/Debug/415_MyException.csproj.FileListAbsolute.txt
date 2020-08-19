@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\415_MyException\bin\Debug\415_MyException.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\415_MyException\bin\Debug\415_MyException.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\415_MyException\bin\Debug\415_MyException.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\415_MyException\obj\Debug\415_MyException.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\415_MyException\obj\Debug\415_MyException.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\415_MyException\obj\Debug\415_MyException.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\415_MyException\obj\Debug\415_MyException.pdb

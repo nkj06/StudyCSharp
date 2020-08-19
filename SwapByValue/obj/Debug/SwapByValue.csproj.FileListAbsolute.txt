@@ -1,0 +1,6 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\SwapByValue\bin\Debug\SwapByValue.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\SwapByValue\bin\Debug\SwapByValue.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\SwapByValue\bin\Debug\SwapByValue.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\SwapByValue\obj\Debug\SwapByValue.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\SwapByValue\obj\Debug\SwapByValue.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\SwapByValue\obj\Debug\SwapByValue.pdb

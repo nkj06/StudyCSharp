@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\HelloApp\bin\Debug\HelloApp.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\HelloApp\bin\Debug\HelloApp.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\HelloApp\bin\Debug\HelloApp.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\HelloApp\obj\Debug\HelloApp.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\HelloApp\obj\Debug\HelloApp.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\HelloApp\obj\Debug\HelloApp.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\HelloApp\obj\Debug\HelloApp.pdb

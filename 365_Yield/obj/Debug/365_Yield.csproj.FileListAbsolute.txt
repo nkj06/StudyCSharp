@@ -1,0 +1,6 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\365_Yield\bin\Debug\365_Yield.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\365_Yield\bin\Debug\365_Yield.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\365_Yield\bin\Debug\365_Yield.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\365_Yield\obj\Debug\365_Yield.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\365_Yield\obj\Debug\365_Yield.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\365_Yield\obj\Debug\365_Yield.pdb

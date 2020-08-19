@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\IntegralConversion\bin\Debug\IntegralConversion.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\IntegralConversion\bin\Debug\IntegralConversion.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\IntegralConversion\bin\Debug\IntegralConversion.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\IntegralConversion\obj\Debug\IntegralConversion.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\IntegralConversion\obj\Debug\IntegralConversion.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\IntegralConversion\obj\Debug\IntegralConversion.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\IntegralConversion\obj\Debug\IntegralConversion.pdb

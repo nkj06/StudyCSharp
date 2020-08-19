@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\MyExtension\bin\Debug\MyExtension.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\MyExtension\bin\Debug\MyExtension.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\MyExtension\bin\Debug\MyExtension.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\MyExtension\obj\Debug\MyExtension.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\MyExtension\obj\Debug\MyExtension.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\MyExtension\obj\Debug\MyExtension.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\MyExtension\obj\Debug\MyExtension.pdb

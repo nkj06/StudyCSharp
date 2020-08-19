@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\WhileApp\bin\Debug\WhileApp.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\WhileApp\bin\Debug\WhileApp.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\WhileApp\bin\Debug\WhileApp.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\WhileApp\obj\Debug\WhileApp.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\WhileApp\obj\Debug\WhileApp.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\WhileApp\obj\Debug\WhileApp.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\WhileApp\obj\Debug\WhileApp.pdb

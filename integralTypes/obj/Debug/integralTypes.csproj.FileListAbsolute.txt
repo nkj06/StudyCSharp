@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\integralTypes\bin\Debug\integralTypes.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\integralTypes\bin\Debug\integralTypes.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\integralTypes\bin\Debug\integralTypes.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\integralTypes\obj\Debug\integralTypes.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\integralTypes\obj\Debug\integralTypes.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\integralTypes\obj\Debug\integralTypes.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\integralTypes\obj\Debug\integralTypes.pdb

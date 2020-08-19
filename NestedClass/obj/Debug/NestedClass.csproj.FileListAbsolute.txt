@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\NestedClass\bin\Debug\NestedClass.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\NestedClass\bin\Debug\NestedClass.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\NestedClass\bin\Debug\NestedClass.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\NestedClass\obj\Debug\NestedClass.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\NestedClass\obj\Debug\NestedClass.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\NestedClass\obj\Debug\NestedClass.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\NestedClass\obj\Debug\NestedClass.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EddyHomePage", "EddyHomePage\EddyHomePage.csproj", "{EB4B0A72-81A5-4F91-B6D0-56A45BF44799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EddyHomePage.Test", "EddyHomePage.Test\EddyHomePage.Test.csproj", "{38681806-1FC9-442F-B6FE-73003D2E78D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB4B0A72-81A5-4F91-B6D0-56A45BF44799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4B0A72-81A5-4F91-B6D0-56A45BF44799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4B0A72-81A5-4F91-B6D0-56A45BF44799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4B0A72-81A5-4F91-B6D0-56A45BF44799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38681806-1FC9-442F-B6FE-73003D2E78D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38681806-1FC9-442F-B6FE-73003D2E78D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38681806-1FC9-442F-B6FE-73003D2E78D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38681806-1FC9-442F-B6FE-73003D2E78D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EECB5BB8-6CCC-46D5-875C-7FACC8F213F8}
+	EndGlobalSection
+EndGlobal

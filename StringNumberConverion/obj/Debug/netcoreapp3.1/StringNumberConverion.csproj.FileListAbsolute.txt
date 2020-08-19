@@ -1,0 +1,13 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\StringNumberConverion\bin\Debug\netcoreapp3.1\StringNumberConverion.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\StringNumberConverion\bin\Debug\netcoreapp3.1\StringNumberConverion.deps.json
+D:\kkaengji\StudyCSharp\StudyCSharp\StringNumberConverion\bin\Debug\netcoreapp3.1\StringNumberConverion.runtimeconfig.json
+D:\kkaengji\StudyCSharp\StudyCSharp\StringNumberConverion\bin\Debug\netcoreapp3.1\StringNumberConverion.runtimeconfig.dev.json
+D:\kkaengji\StudyCSharp\StudyCSharp\StringNumberConverion\bin\Debug\netcoreapp3.1\StringNumberConverion.dll
+D:\kkaengji\StudyCSharp\StudyCSharp\StringNumberConverion\bin\Debug\netcoreapp3.1\StringNumberConverion.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\StringNumberConverion\obj\Debug\netcoreapp3.1\StringNumberConverion.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\StringNumberConverion\obj\Debug\netcoreapp3.1\StringNumberConverion.AssemblyInfoInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\StringNumberConverion\obj\Debug\netcoreapp3.1\StringNumberConverion.AssemblyInfo.cs
+D:\kkaengji\StudyCSharp\StudyCSharp\StringNumberConverion\obj\Debug\netcoreapp3.1\StringNumberConverion.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\StringNumberConverion\obj\Debug\netcoreapp3.1\StringNumberConverion.dll
+D:\kkaengji\StudyCSharp\StudyCSharp\StringNumberConverion\obj\Debug\netcoreapp3.1\StringNumberConverion.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\StringNumberConverion\obj\Debug\netcoreapp3.1\StringNumberConverion.genruntimeconfig.cache

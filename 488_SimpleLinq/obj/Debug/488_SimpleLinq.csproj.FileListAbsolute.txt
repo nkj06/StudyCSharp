@@ -1,0 +1,6 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\488_SimpleLinq\bin\Debug\488_SimpleLinq.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\488_SimpleLinq\bin\Debug\488_SimpleLinq.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\488_SimpleLinq\bin\Debug\488_SimpleLinq.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\488_SimpleLinq\obj\Debug\488_SimpleLinq.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\488_SimpleLinq\obj\Debug\488_SimpleLinq.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\488_SimpleLinq\obj\Debug\488_SimpleLinq.pdb

@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\BasicClass\bin\Debug\BasicClass.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\BasicClass\bin\Debug\BasicClass.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\BasicClass\bin\Debug\BasicClass.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\BasicClass\obj\Debug\BasicClass.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\BasicClass\obj\Debug\BasicClass.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\BasicClass\obj\Debug\BasicClass.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\BasicClass\obj\Debug\BasicClass.pdb

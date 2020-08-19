@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\631_Synchronize\bin\Debug\631_Synchronize.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\631_Synchronize\bin\Debug\631_Synchronize.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\631_Synchronize\bin\Debug\631_Synchronize.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\631_Synchronize\obj\Debug\631_Synchronize.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\631_Synchronize\obj\Debug\631_Synchronize.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\631_Synchronize\obj\Debug\631_Synchronize.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\631_Synchronize\obj\Debug\631_Synchronize.pdb

@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\625_InterruptingThread\obj\Debug\625_InterruptingThread.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\625_InterruptingThread\obj\Debug\625_InterruptingThread.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\625_InterruptingThread\bin\Debug\625_InterruptingThread.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\625_InterruptingThread\bin\Debug\625_InterruptingThread.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\625_InterruptingThread\bin\Debug\625_InterruptingThread.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\625_InterruptingThread\obj\Debug\625_InterruptingThread.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\625_InterruptingThread\obj\Debug\625_InterruptingThread.pdb

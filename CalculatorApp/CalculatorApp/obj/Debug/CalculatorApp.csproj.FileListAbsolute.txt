@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\kkaengji\StudyCSharp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\kkaengji\StudyCSharp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\kkaengji\StudyCSharp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\kkaengji\StudyCSharp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb

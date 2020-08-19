@@ -1,0 +1,6 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\CopyingArray\bin\Debug\CopyingArray.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\CopyingArray\bin\Debug\CopyingArray.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\CopyingArray\bin\Debug\CopyingArray.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\CopyingArray\obj\Debug\376_CopyingArray.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\CopyingArray\obj\Debug\CopyingArray.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\CopyingArray\obj\Debug\CopyingArray.pdb

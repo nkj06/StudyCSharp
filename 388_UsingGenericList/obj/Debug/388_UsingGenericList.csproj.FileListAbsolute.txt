@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\388_UsingGenericList\bin\Debug\388_UsingGenericList.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\388_UsingGenericList\bin\Debug\388_UsingGenericList.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\388_UsingGenericList\bin\Debug\388_UsingGenericList.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\388_UsingGenericList\obj\Debug\388_UsingGenericList.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\388_UsingGenericList\obj\Debug\388_UsingGenericList.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\388_UsingGenericList\obj\Debug\388_UsingGenericList.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\388_UsingGenericList\obj\Debug\388_UsingGenericList.csprojAssemblyReference.cache

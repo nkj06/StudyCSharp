@@ -1,0 +1,6 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\IfElseApp\bin\Debug\IfElseApp.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\IfElseApp\bin\Debug\IfElseApp.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\IfElseApp\bin\Debug\IfElseApp.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\IfElseApp\obj\Debug\IfElseApp.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\IfElseApp\obj\Debug\IfElseApp.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\IfElseApp\obj\Debug\IfElseApp.pdb

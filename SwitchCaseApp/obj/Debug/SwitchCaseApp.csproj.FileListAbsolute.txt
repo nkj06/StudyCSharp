@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\SwitchCaseApp\bin\Debug\SwitchCaseApp.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\SwitchCaseApp\bin\Debug\SwitchCaseApp.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\SwitchCaseApp\bin\Debug\SwitchCaseApp.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\SwitchCaseApp\obj\Debug\SwitchCaseApp.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\SwitchCaseApp\obj\Debug\SwitchCaseApp.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\SwitchCaseApp\obj\Debug\SwitchCaseApp.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\SwitchCaseApp\obj\Debug\SwitchCaseApp.pdb

@@ -1,0 +1,6 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\393_EnumerableGeneric\bin\Debug\393_EnumerableGeneric.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\393_EnumerableGeneric\bin\Debug\393_EnumerableGeneric.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\393_EnumerableGeneric\bin\Debug\393_EnumerableGeneric.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\393_EnumerableGeneric\obj\Debug\393_EnumerableGeneric.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\393_EnumerableGeneric\obj\Debug\393_EnumerableGeneric.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\393_EnumerableGeneric\obj\Debug\393_EnumerableGeneric.pdb

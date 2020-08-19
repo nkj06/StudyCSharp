@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\StaticField\bin\Debug\StaticField.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\StaticField\bin\Debug\StaticField.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\StaticField\bin\Debug\StaticField.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\StaticField\obj\Debug\StaticField.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\StaticField\obj\Debug\StaticField.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\StaticField\obj\Debug\StaticField.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\StaticField\obj\Debug\StaticField.pdb

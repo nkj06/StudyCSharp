@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\StringSearch\bin\Debug\StringSearch.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\StringSearch\bin\Debug\StringSearch.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\StringSearch\bin\Debug\StringSearch.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\StringSearch\obj\Debug\StringSearch.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\StringSearch\obj\Debug\StringSearch.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\StringSearch\obj\Debug\StringSearch.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\StringSearch\obj\Debug\StringSearch.csprojAssemblyReference.cache

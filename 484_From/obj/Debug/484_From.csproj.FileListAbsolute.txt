@@ -1,0 +1,6 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\484_From\obj\Debug\484_From.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\484_From\bin\Debug\484_From.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\484_From\bin\Debug\484_From.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\484_From\bin\Debug\484_From.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\484_From\obj\Debug\484_From.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\484_From\obj\Debug\484_From.pdb

@@ -1,0 +1,6 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\362_Indexer\bin\Debug\362_Indexer.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\362_Indexer\bin\Debug\362_Indexer.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\362_Indexer\bin\Debug\362_Indexer.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\362_Indexer\obj\Debug\362_Indexer.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\362_Indexer\obj\Debug\362_Indexer.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\362_Indexer\obj\Debug\362_Indexer.pdb

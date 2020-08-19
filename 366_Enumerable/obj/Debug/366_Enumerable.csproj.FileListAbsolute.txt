@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\366_Enumerable\bin\Debug\366_Enumerable.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\366_Enumerable\bin\Debug\366_Enumerable.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\366_Enumerable\bin\Debug\366_Enumerable.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\366_Enumerable\obj\Debug\366_Enumerable.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\366_Enumerable\obj\Debug\366_Enumerable.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\366_Enumerable\obj\Debug\366_Enumerable.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\366_Enumerable\obj\Debug\366_Enumerable.pdb

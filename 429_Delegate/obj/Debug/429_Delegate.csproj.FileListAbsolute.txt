@@ -1,0 +1,7 @@
+D:\kkaengji\StudyCSharp\StudyCSharp\429_Delegate\bin\Debug\429_Delegate.exe.config
+D:\kkaengji\StudyCSharp\StudyCSharp\429_Delegate\bin\Debug\429_Delegate.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\429_Delegate\bin\Debug\429_Delegate.pdb
+D:\kkaengji\StudyCSharp\StudyCSharp\429_Delegate\obj\Debug\429_Delegate.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\429_Delegate\obj\Debug\429_Delegate.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\StudyCSharp\429_Delegate\obj\Debug\429_Delegate.exe
+D:\kkaengji\StudyCSharp\StudyCSharp\429_Delegate\obj\Debug\429_Delegate.pdb
