@@ -76,7 +76,6 @@ namespace Covid19.SubItems
                     item["deathCnt"].InnerText, // 사망자 수
                     item["stdDay"] == null ? string.Empty : item["stdDay"].InnerText); // 기준일시
                 }
-
             }
             DgvSearchItems.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.DisplayedCells;
         }
